@@ -1,4 +1,4 @@
-# ECE332_EmbeddedSystemsLab Embedded Systems Lab 2 - UMass Amherst
+# Embedded Systems Lab 2 - UMass Amherst
 
  This lab was completed during Covid-19 restrictions so it was done solo
    normally completed in groups (I believe)
